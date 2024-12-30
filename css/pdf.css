@@ -1,0 +1,76 @@
+ 
+body { font-family: Arial, sans-serif; padding: 20px; }
+                    
+p { font-size: 16px; }
+                    
+table {
+   width:100%;
+   border:solid #CCC 1px;
+}
+
+tr {
+	border-bottom:  solid #EEE 1Px ;
+}
+
+                  
+
+th {
+   background-color:#CCCCCC !important;
+   color:#222;
+   padding: 5px;
+   border:solid #CCCCCC 1px;
+   text-align:center ;
+   border: solid #EEE 1Px;
+ }
+                    
+td.intitule_competence {
+   width:10% 
+   padding: 5px;
+   	border-bottom:  solid #EEE 1Px ;
+
+   text-align:center
+}
+
+td.label_competence {
+   width:60% ;
+   	border-bottom:  solid #EEE 1Px ;
+
+   padding: 5px;
+}
+                    
+td.niveau {
+   width:10% ;
+   padding: 5px;
+   	border-bottom:  solid #EEE 1Px ;
+
+   text-align:center
+}
+
+td.C1 {
+	color: #000;
+	background: #F1F4F1;
+}
+
+
+td.C2 {
+    color: #000;
+    background: #BBAE00;
+}
+
+
+td.C3 {
+    color: #000;
+    background: #33AEF1;
+}
+
+
+
+td.C4 {
+    color: #000;
+    background: #3833BB;
+}
+
+td.C5 {
+    color: #000;
+    background: #7B22F5;
+}
